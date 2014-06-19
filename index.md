@@ -63,6 +63,7 @@ Here is my picture on a slide:
 ![image from redmond barry building unimelb](http://i.imgur.com/RVNmr.jpg)
 
  Here's another picture:
+ 
 ![local image](figures/AugSigCov.jpg)
 
 
