@@ -52,9 +52,7 @@ $$
 
 Here is my picture on a slide:
 
-![Mypic][fig1]
-
-[fig1]: /Users/enordmoe/Documents/MySite/ephoto.jpg "Mypicture"
+![image from redmond barry building unimelb](http://i.imgur.com/RVNmr.jpg)
 
 
 
