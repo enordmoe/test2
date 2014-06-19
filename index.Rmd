@@ -25,7 +25,7 @@ github:
 ## Histogram of Normal Random Variable
 
 Create a plot in ggplot2:
-```{r,fig.height=3}
+```{r,fig.height=3in}
 require(ggplot2)
 x=rnorm(1000)
 hist(x)
