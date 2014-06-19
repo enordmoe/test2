@@ -25,10 +25,10 @@ github:
 ## Histogram of Normal Random Variable
 
 Create a plot in ggplot2:
-```{r,fig.height=2}
+```{r chunk1,fig.height=2}
 require(ggplot2)
 x=rnorm(1000)
-hist(x)
+qplot(x)
 ```
 
 ---

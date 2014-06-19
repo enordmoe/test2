@@ -29,10 +29,14 @@ Create a plot in ggplot2:
 ```r
 require(ggplot2)
 x = rnorm(1000)
-hist(x)
+qplot(x)
 ```
 
-![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
+```
+## stat_bin: binwidth defaulted to range/30. Use 'binwidth = x' to adjust this.
+```
+
+![plot of chunk chunk1](assets/fig/chunk1.png) 
 
 
 ---
