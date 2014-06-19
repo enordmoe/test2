@@ -55,7 +55,7 @@ Here is my picture on a slide:
 ![image from redmond barry building unimelb](http://i.imgur.com/RVNmr.jpg)
 
  Here's another picture:
-![local image](/Users/enordmoe/Documents/MySite/ephoto.jpg)
+![local image](figures/ephoto.jpg)
 
 
 
