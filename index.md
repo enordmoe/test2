@@ -8,7 +8,7 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
-knit        : slidify::knit2slides
+
 ---
 
 ## Read-And-Delete
@@ -25,11 +25,12 @@ Create a plot in ggplot2:
 
 ```r
 require(ggplot2)
-x=rnorm(1000)
+x = rnorm(1000)
 hist(x)
 ```
 
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
+
 
 ---
 
