@@ -16,7 +16,7 @@ github:
 <!-- Limit image width and height -->
 <style type='text/css'>
 img {
-    max-height: 560px;
+    max-height: 260px;
     max-width: 964px;
 }
 </style>
