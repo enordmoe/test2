@@ -60,7 +60,9 @@ $$
 
 Here is my picture on a slide:
 
-!['My picture'](/Users/enordmoe/Documents/MySite/ephoto.jpg)
+![Mypic][fig1]
+
+[fig1]: /Users/enordmoe/Documents/MySite/ephoto.jpg "Mypicture"
 
 
 
