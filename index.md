@@ -54,6 +54,14 @@ $$
 $$
   
 
+---
+
+## Include a Local images
+
+Here is my picture on a slide:
+
+!['My picture'](/Users/enordmoe/Documents/MySite/ephoto.jpg)
+
 
 
 
